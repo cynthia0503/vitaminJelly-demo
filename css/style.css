@@ -426,47 +426,47 @@ Q1
 /* ---- Q1回答ボタン ---- */
 .a1-a1 {
     display: block;
-    background-image: url("./img/q1-a1before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a1before.png");
 }
 
 .a1-a1.change {
-    background-image: url("./img/q1-a1after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a1after.png");
 }
 
 .a1-a2 {
     display: block;
-    background-image: url("./img/q1-a2before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a2before.png");
 }
 
 .a1-a2.change {
-    background-image: url("./img/q1-a2after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a2after.png");
 }
 
 .a1-a3 {
     display: block;
-    background-image: url("/img/q1-a3before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a3before.png");
 }
 
 .a1-a3.change {
-    background-image: url("/img/q1-a3after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a3after.png");
 }
 
 .a1-a4 {
     display: block;
-    background-image: url("/img/q1-a4before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a4before.png");
 }
 
 .a1-a4.change {
-    background-image: url("/img/q1-a4after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a4after.png");
 }
 
 .a1-a5 {
     display: block;
-    background-image: url("/img/q1-a5before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a5before.png");
 }
 
 .a1-a5.change {
-    background-image: url("/img/q1-a5after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q1-a5after.png");
 }
 
 /* =============
@@ -489,20 +489,20 @@ Q2
 /* ---- q2回答ボタン ----- */
 .a2-a1 {
     display: block;
-    background-image: url("/img/yes-before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/yes-before.png");
 }
 
 .a2-a1.change {
-    background-image: url("/img/yes-after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/yes-after.png");
 }
 
 .a2-a2 {
     display: block;
-    background-image: url("/img/no-before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/no-before.png");
 }
 
 .a2-a2.change {
-    background-image: url("/img/no-after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/no-after.png");
 }
 
 /* =============
@@ -540,11 +540,11 @@ Q3
 /* ---質問--- */
 .a3-a1 {
     display: block;
-    background-image: url("/img/q3-a1before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a1before.png");
 }
 
 .a3-a1.change {
-    background-image: url("/img/q3-a1after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a1after.png");
 }
 
 #q3-img1,
@@ -557,38 +557,38 @@ Q3
 
 .a3-a2 {
     display: block;
-    background-image: url("/img/q3-a2before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a2before.png");
 }
 
 .a3-a2.change {
-    background-image: url("/img/q3-a2after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a2after.png");
 }
 
 .a3-a3 {
     display: block;
-    background-image: url("/img/q3-a3before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a3before.png");
 }
 
 .a3-a3.change {
-    background-image: url("/img/q3-a3after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a3after.png");
 }
 
 .a3-a4 {
     display: block;
-    background-image: url("/img/q3-a4before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a4before.png");
 }
 
 .a3-a4.change {
-    background-image: url("/img/q3-a4after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a4after.png");
 }
 
 .a3-a5 {
     display: block;
-    background-image: url("/img/q3-a5before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a5before.png");
 }
 
 .a3-a5.change {
-    background-image: url("/img/q3-a5after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q3-a5after.png");
 }
 
 .q3img img {
@@ -617,47 +617,47 @@ Q4
 /* ---- Q4回答ボタン ---- */
 .a4-a1 {
     display: block;
-    background-image: url("/img/q4-a1before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a1before.png");
 }
 
 .a4-a1.change {
-    background-image: url("/img/q4-a1after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a1after.png");
 }
 
 .a4-a2 {
     display: block;
-    background-image: url("/img/q4-a2before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a2before.png");
 }
 
 .a4-a2.change {
-    background-image: url("/img/q4-a2after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a2after.png");
 }
 
 .a4-a3 {
     display: block;
-    background-image: url("/img/q4-a3before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a3before.png");
 }
 
 .a4-a3.change {
-    background-image: url("/img/q4-a3after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a3after.png");
 }
 
 .a4-a4 {
     display: block;
-    background-image: url("/img/q4-a4before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a4before.png");
 }
 
 .a4-a4.change {
-    background-image: url("/img/q4-a4after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a4after.png");
 }
 
 .a4-a5 {
     display: block;
-    background-image: url("/img/q4-a5before.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a5before.png");
 }
 
 .a4-a5.change {
-    background-image: url("/img/q4-a5after.png");
+    background-image: url("https://cynthia0503.github.io/vitaminJelly-demo/img/q4-a5after.png");
 }
 
 .a-box {
