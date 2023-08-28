@@ -426,20 +426,20 @@ Q1
 /* ---- Q1回答ボタン ---- */
 .a1-a1 {
     display: block;
-    background-image: url("/img/q1-a1before.png");
+    background-image: url("./img/q1-a1before.png");
 }
 
 .a1-a1.change {
-    background-image: url("/img/q1-a1after.png");
+    background-image: url("./img/q1-a1after.png");
 }
 
 .a1-a2 {
     display: block;
-    background-image: url("/img/q1-a2before.png");
+    background-image: url("./img/q1-a2before.png");
 }
 
 .a1-a2.change {
-    background-image: url("/img/q1-a2after.png");
+    background-image: url("./img/q1-a2after.png");
 }
 
 .a1-a3 {
