@@ -427,47 +427,47 @@ Q1
 /* ---- Q1回答ボタン ---- */
 .a1-a1 {
     display: block;
-    background-image: url("/img/q1_ans_before_01.png");
+    background-image: url("../img/q1_ans_before_01.png");
 }
 
 .a1-a1.change {
-    background-image: url("/img/q1_ans_after_01.png");
+    background-image: url("../img/q1_ans_after_01.png");
 }
 
 .a1-a2 {
     display: block;
-    background-image: url("/img/q1_ans_before_02.png");
+    background-image: url("../img/q1_ans_before_02.png");
 }
 
 .a1-a2.change {
-    background-image: url("/img/q1_ans_after_02.png");
+    background-image: url("../img/q1_ans_after_02.png");
 }
 
 .a1-a3 {
     display: block;
-    background-image: url("/img/q1_ans_before_03.png");
+    background-image: url("../img/q1_ans_before_03.png");
 }
 
 .a1-a3.change {
-    background-image: url("/img/q1_ans_after_03.png");
+    background-image: url("../img/q1_ans_after_03.png");
 }
 
 .a1-a4 {
     display: block;
-    background-image: url("/img/q1_ans_before_04.png");
+    background-image: url("../img/q1_ans_before_04.png");
 }
 
 .a1-a4.change {
-    background-image: url("/img/q1_ans_after_04.png");
+    background-image: url(".../img/q1_ans_after_04.png");
 }
 
 .a1-a5 {
     display: block;
-    background-image: url("/img/q1_ans_before_05.png");
+    background-image: url("../img/q1_ans_before_05.png");
 }
 
 .a1-a5.change {
-    background-image: url("/img/q1_ans_after_05.png");
+    background-image: url("../img/q1_ans_after_05.png");
 }
 
 /* =============
@@ -490,20 +490,20 @@ Q2
 /* ---- q2回答ボタン ----- */
 .a2-a1 {
     display: block;
-    background-image: url("/img/q2_ans_before_01.png");
+    background-image: url("../img/q2_ans_before_01.png");
 }
 
 .a2-a1.change {
-    background-image: url("/img/q2_ans_after_01.png");
+    background-image: url("../img/q2_ans_after_01.png");
 }
 
 .a2-a2 {
     display: block;
-    background-image: url("/img/q2_ans_before_02.png");
+    background-image: url("../img/q2_ans_before_02.png");
 }
 
 .a2-a2.change {
-    background-image: url("/img/q2_ans_after_02.png");
+    background-image: url("../img/q2_ans_after_02.png");
 }
 
 /* =============
@@ -533,11 +533,11 @@ Q3
 /* ---質問--- */
 .a3-a1 {
     display: block;
-    background-image: url("/img/q3_ans_before_01.png");
+    background-image: url("../img/q3_ans_before_01.png");
 }
 
 .a3-a1.change {
-    background-image: url("/img/q3_ans_after_01.png");
+    background-image: url("../img/q3_ans_after_01.png");
 }
 
 #q3-img1,
@@ -550,38 +550,38 @@ Q3
 
 .a3-a2 {
     display: block;
-    background-image: url("/img/q3_ans_before_02.png");
+    background-image: url("../img/q3_ans_before_02.png");
 }
 
 .a3-a2.change {
-    background-image: url("/img/q3_ans_after_02.png");
+    background-image: url("../img/q3_ans_after_02.png");
 }
 
 .a3-a3 {
     display: block;
-    background-image: url("/img/q3_ans_before_03.png");
+    background-image: url("../img/q3_ans_before_03.png");
 }
 
 .a3-a3.change {
-    background-image: url("/img/q3_ans_after_03.png");
+    background-image: url("../img/q3_ans_after_03.png");
 }
 
 .a3-a4 {
     display: block;
-    background-image: url("/img/q3_ans_before_04.png");
+    background-image: url("../img/q3_ans_before_04.png");
 }
 
 .a3-a4.change {
-    background-image: url("/img/q3_ans_after_04.png");
+    background-image: url("../img/q3_ans_after_04.png");
 }
 
 .a3-a5 {
     display: block;
-    background-image: url("/img/q3_ans_before_05.png");
+    background-image: url("../img/q3_ans_before_05.png");
 }
 
 .a3-a5.change {
-    background-image: url("/img/q3_ans_after_05.png");
+    background-image: url("../img/q3_ans_after_05.png");
 }
 
 .q3img img {
@@ -610,47 +610,47 @@ Q4
 /* ---- Q4回答ボタン ---- */
 .a4-a1 {
     display: block;
-    background-image: url("/img/q4_ans_before_01.png");
+    background-image: url("../img/q4_ans_before_01.png");
 }
 
 .a4-a1.change {
-    background-image: url("/img/q4_ans_after_02.png");
+    background-image: url("../img/q4_ans_after_02.png");
 }
 
 .a4-a2 {
     display: block;
-    background-image: url("/img/q4_ans_before_02.png");
+    background-image: url("../img/q4_ans_before_02.png");
 }
 
 .a4-a2.change {
-    background-image: url("/img/q4_ans_after_02.png");
+    background-image: url("../img/q4_ans_after_02.png");
 }
 
 .a4-a3 {
     display: block;
-    background-image: url("/img/q4_ans_after_03.png");
+    background-image: url("../img/q4_ans_after_03.png");
 }
 
 .a4-a3.change {
-    background-image: url("/img/q4_ans_after_03.png");
+    background-image: url("../img/q4_ans_after_03.png");
 }
 
 .a4-a4 {
     display: block;
-    background-image: url("/img/q4_ans_before_04.png");
+    background-image: url("../img/q4_ans_before_04.png");
 }
 
 .a4-a4.change {
-    background-image: url("/img/q4_ans_after_04.png");
+    background-image: url("../img/q4_ans_after_04.png");
 }
 
 .a4-a5 {
     display: block;
-    background-image: url("/img/q4_ans_before_05.png");
+    background-image: url("../img/q4_ans_before_05.png");
 }
 
 .a4-a5.change {
-    background-image: url("/img/q4_ans_after_05.png");
+    background-image: url("../img/q4_ans_after_05.png");
 }
 
 .a-box {
@@ -835,7 +835,15 @@ offer
     cursor: pointer;
     transition-duration: 0.2s;
   }
-
+  /* .s_01 .accordion_one:nth-of-type(2) .accordion_header {
+      background-color: #ff9a05;
+  }
+  .s_01 .accordion_one:nth-of-type(3) .accordion_header {
+      background-color: #1c85d8;
+  } */
+  /* .s_01 .accordion_one .accordion_header:hover {
+    opacity: .8;
+  } */
   .s_01 .accordion_one .accordion_header .i_box {
     display: flex;
     justify-content: center;
@@ -900,11 +908,29 @@ offer
     box-sizing: border-box;
   }
 
-
+  /* .s_01 .accordion_one .accordion_inner .box_one {
+    height: 300px;
+  } */
   .s_01 .accordion_one .accordion_inner p.txt_a_ac {
     margin: 0;
   }
-  
+  @media screen and (max-width: 1024px) {
+    /* .s_01 .accordion_one .accordion_header {
+      font-size: 18px;
+    } */
+    /* .s_01 .accordion_one .accordion_header .i_box {
+      width: 30px;
+      height: 30px;
+      margin-top: -15px;
+    } */
+  }
+  @media screen and (max-width: 767px) {
+    /* .s_01 .accordion_one .accordion_header {
+      font-size: 16px;
+      text-align: left;
+      padding: 15px 60px 15px 15px;
+    } */
+  }
   
 
   /* ====================================================================
@@ -920,5 +946,6 @@ offer
 #offer {
     display: none;
 }
-  
+
+
   
