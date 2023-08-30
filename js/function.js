@@ -34,16 +34,17 @@ $(function () {
 
     /*Q3*/
     //ボタンのイベント
-    // $(".a3-btn").click(function () {
-    //     $("#q4").fadeIn("3000");
-    //     const qTop = $('#q4').offset().top;
-    //     $("html").animate({ scrollTop: qTop });
-    // });
-    // $(".a3-btn-last").click(function () {
-    //     $("#q4").fadeIn("3000");
-    //     const qTop = $('#q4').offset().top;
-    //     $("html").animate({ scrollTop: qTop });
-    // });
+    $(".a3-btn").click(function () {
+        $("#q4").fadeIn("3000");
+        $("#send").fadeIn("3000");
+        // const qTop = $('#q4').offset().top;
+        // $("html").animate({ scrollTop: qTop });
+    });
+    $(".a3-btn-last").click(function () {
+        $("#send").fadeIn("3000");
+        // const qTop = $('#q4').offset().top;
+        // $("html").animate({ scrollTop: qTop });
+    });
 
     //Q3ボタンと連動する画像
     $(".a3-a1").click(function () { 
@@ -67,45 +68,18 @@ $(function () {
         $('#q3-img4').css("display", "block");
     });
 
-    // $(".a3-a1").mouseover(function(){
-    //     $("#q3-img1").css("display", "block");
-    // });
-    // $(".a3-a1").mouseout(function(){
-    //     $("#q3-img1").css("display", "none");
-    // });
+    $(".a3-a5").click(function () { 
+        $('#q3-img5').css("display", "block");
+    });
+    $(".a3-a5").click(function () { 
+        $('#q3-img5').css("display", "block");
+    });
 
-    // $(".a3-a2").mouseover(function(){
-    //     $("#q3-img2").css("display", "block");
-    // });
-    // $(".a3-a2").mouseout(function(){
-    //     $("#q3-img2").css("display", "none");
-    // });
-
-    // $(".a3-a3").mouseover(function(){
-    //     $("#q3-img3").css("display", "block");
-    // });
-    // $(".a3-a3").mouseout(function(){
-    //     $("#q3-img3").css("display", "none");
-    // });
-
-    // $(".a3-a4").mouseover(function(){
-    //     $("#q3-img4").css("display", "block");
-    // });
-    // $(".a3-a4").mouseout(function(){
-    //     $("#q3-img4").css("display", "none");
-    // });
-
-    // $(".a3-a5").mouseover(function(){
-    //     $("#q3-img1").css("display", "block");
-    // });
-    // $(".a3-a5").mouseout(function(){
-    //     $("#q3-img5").css("display", "none");
-    // });
     //Q4送信ボタンのイベント
     $("#send").click(function () {
         //質問を隠す
-        // $("#question").css("display", "none");
-        // $(".form").css("display", "none");
+        $("#question,#fv").css("display", "none");
+        $(".form").css("display", "none");
         $("#offer").fadeIn("3000");
         const qTop = $('#offer').offset().top;
         $("html").animate({ scrollTop: qTop });
@@ -183,5 +157,7 @@ $(function(){
       $(this).toggleClass("open");
     });
   });
+
+  
 
   
